@@ -1,0 +1,87 @@
+---
+title: "Jurimetria no Ministério Público"
+author: "José de Jesus Filho"
+format: revealjs
+---
+
+## Acessso
+
+![](qrcode.png)
+
+## Sobre o autor
+
+* Assessor do Ministério Público de São Paulo
+* Professor de metodologia na PUC-SP
+* Graduação em direito
+* Mestrado em direito penal
+* Doutorado em administração pública
+* Pós-doc em jurimetria
+
+## Jurimetria: conceitos
+
+* Ciência de dados aplicada ao Direito
+* Abordagem probabilística do Direito
+* Pesquisa quantitativa em Direito
+
+## Dimensões da jurimetria
+
+```{r}
+
+library(ggdag)
+set.seed(839)
+dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao, 
+       exposure = "Direito") |> 
+   ggdag(node_size = 30, stylized = T) +
+   theme_dag()
+```
+
+## O que a jurimetria pode responder?
+
+* Quanto tempo para apreciação até a apreciação de uma liminar?
+* Qual a chance (probabilidade) de o Tribunal julgar favoralvemnte ao MP?
+* Quantos pedidos foram judicializados desde a publicação de uma determina lei?
+* Qual o impacto de uma decisão do STJ sobre as decisões dos tribunais estaduais?
+
+## Exemplos de jurimetria
+
+#### Demandas em saúde suplementar no TJSP ao longo dos anos.
+
+![](tb_mes.png)
+
+## Exemplos de jurimetria
+
+#### Tempo para a sentença nas ações de improbidade administrativa
+
+## Exemplos de jurimetria
+
+[Reclamações ao STF](https://direito.consudata.com.br/shiny/stf)
+
+## Ciclo jurimétrico
+
+* Questões da pesquisa
+* Desenho da pesquisa
+  - Pesquisa prospectiva
+  - Pesquisa retrospectiva
+
+## Ciclo jurimétrico
+* Análise de viabilidade
+  - O dado existe?
+  - O dado é acessível?
+  - Qual a qualidade do dado?
+  - É possível entregar a análise no prazo previsto?
+  
+## Ciclo jurimétrico
+* Coleta
+* Limpeza
+* Transformação
+* Análise exploratória
+* Análise inferencial
+* Análise preditiva
+* Interpretação dos resultados
+* Publicação dos resultados
+  - Relatório em pdf/Word
+  - Painel/Dashboard/BI
+
+## Jurimetria e inteligência artificial
+
+
