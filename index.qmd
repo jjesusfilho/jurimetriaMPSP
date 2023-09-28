@@ -52,16 +52,23 @@ dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao,
 
 #### Tempo para a sentença nas ações de improbidade administrativa
 
+![](km.png)
+
 ## Exemplos de jurimetria
 
 [Reclamações ao STF](https://direito.consudata.com.br/shiny/stf)
 
 ## Ciclo jurimétrico
-
 * Questões da pesquisa
 * Desenho da pesquisa
   - Pesquisa prospectiva
+      1. Processos distribuídos?
+      2. Inquéritos instaurados?
+      3. Projetos de lei?
   - Pesquisa retrospectiva
+      1. Sentenças?
+      2. Acórdãos?
+      3. Decisôes liminares
 
 ## Ciclo jurimétrico
 * Análise de viabilidade
@@ -69,7 +76,8 @@ dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao,
   - O dado é acessível?
   - Qual a qualidade do dado?
   - É possível entregar a análise no prazo previsto?
-  
+
+* Entrevista com solicitante
 ## Ciclo jurimétrico
 * Coleta
 * Limpeza
@@ -77,6 +85,8 @@ dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao,
 * Análise exploratória
 * Análise inferencial
 * Análise preditiva
+
+## Ciclo jurimétrico
 * Interpretação dos resultados
 * Publicação dos resultados
   - Relatório em pdf/Word
@@ -84,10 +94,28 @@ dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao,
 
 ## Jurimetria e inteligência artificial
 
+![](ia1.jpeg)
+
+## Jurimetria e Inteligência artificial
+
+![](ia2.jpeg)
+
 ## Como realizar um pedido para a jurimetria
 
 [Formulário online](https://apps.powerapps.com/play/e/default-2dbd8499-508d-4b76-a31d-ca39cb3d8f1d/a/404f5cea-0043-4226-90bb-f3dde4cb683f?tenantId=2dbd8499-508d-4b76-a31d-ca39cb3d8f1d&hint=25eb572f-1f24-4bdd-b1df-3d6780f28d42&sourcetime=1695909786454)
 
 ## Como realizar um pedido para a jurimetria - imagem
 
-[Formulário](formulario.png)
+![Formulário](formulario.png)
+
+## Equipe ideal
+
+* Engenheiro de dados
+
+* Cientista de dados (jurimetrista)
+
+* Analista de dados
+
+* Pessoa para validação (auxiliar de promotoria?)
+
+* Elaboração de relatório
