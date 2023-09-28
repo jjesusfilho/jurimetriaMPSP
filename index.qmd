@@ -37,7 +37,7 @@ dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao,
 
 ## O que a jurimetria pode responder?
 
-* Quanto tempo para apreciação até a apreciação de uma liminar?
+* Quanto tempo até a apreciação de uma liminar?
 * Qual a chance (probabilidade) de o Tribunal julgar favoralvemnte ao MP?
 * Quantos pedidos foram judicializados desde a publicação de uma determina lei?
 * Qual o impacto de uma decisão do STJ sobre as decisões dos tribunais estaduais?
@@ -58,7 +58,7 @@ dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao,
 
 [Reclamações ao STF](https://direito.consudata.com.br/shiny/stf)
 
-## Ciclo jurimétrico
+## Ciclo jurimétrico{.smaller}
 * Questões da pesquisa
 * Desenho da pesquisa
   - Pesquisa prospectiva
@@ -78,6 +78,7 @@ dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao,
   - É possível entregar a análise no prazo previsto?
 
 * Entrevista com solicitante
+
 ## Ciclo jurimétrico
 * Coleta
 * Limpeza
@@ -110,6 +111,8 @@ dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao,
 
 ## Equipe ideal
 
+* Pessoa com conhecimento do Direito, e.g, promotor, agente...
+
 * Engenheiro de dados
 
 * Cientista de dados (jurimetrista)
@@ -118,4 +121,4 @@ dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao,
 
 * Pessoa para validação (auxiliar de promotoria?)
 
-* Elaboração de relatório
+* Pessoa para elaboração de relatório
