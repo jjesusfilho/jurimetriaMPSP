@@ -84,4 +84,10 @@ dagify(Direito ~ Estatistica, Direito ~ Programacao, Estatistica ~ Programacao,
 
 ## Jurimetria e inteligência artificial
 
+## Como realizar um pedido para a jurimetria
 
+[Formulário online](https://apps.powerapps.com/play/e/default-2dbd8499-508d-4b76-a31d-ca39cb3d8f1d/a/404f5cea-0043-4226-90bb-f3dde4cb683f?tenantId=2dbd8499-508d-4b76-a31d-ca39cb3d8f1d&hint=25eb572f-1f24-4bdd-b1df-3d6780f28d42&sourcetime=1695909786454)
+
+## Como realizar um pedido para a jurimetria - imagem
+
+[Formulário](formulario.png)
